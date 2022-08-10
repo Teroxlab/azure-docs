@@ -101,6 +101,7 @@ As the SKU level increases, the frequency of those backup snapshots increases. R
 
 To get started, [create an Azure AD DS managed domain][create-instance].
 
+## More reading
 <!-- INTERNAL LINKS -->
 [password-policy]: password-policy.md
 [hybrid-phs]: tutorial-configure-password-hash-sync.md#enable-synchronization-of-password-hashes
